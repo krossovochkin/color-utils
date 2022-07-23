@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+build/
+!build/distributions/*
+kotlin-js-store/
